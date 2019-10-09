@@ -1,5 +1,6 @@
-# CFB-Research
-A repository for the storage of all files pertaining to statistical analysis with College Football Games. Basically whenever I write up a game summary, the codes will be put here.
+# Game List
+
+Below will be all the games I am (or have) concidered for a full game analysis. The ones that have ultimately been selected are bolded if they are completed, and italicised if they are a work in progress.
 
 ## Week 1 Potential Games
 
