@@ -21,3 +21,5 @@ All code is valid that contains the following in the header:
 
 	# CODE IS VALIDATED BY USER JHWIGGINS.
 	# VALIDATION DATE XX-XX-XXXX
+
+For streamlining purposes a GUI input will be used to track the inputs of the play by play in order to allow for faster data input. In order for replication purposes, a spreadsheet of all the reponses will be uploaded as well through a df.to_excel('fileName.xlsx') dump.
