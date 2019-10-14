@@ -45,3 +45,11 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 - UCF at Cincinnati
 - *Tulsa at SMU*
 - Pitt at Duke
+
+## Week 7 Potential Games
+
+- South Carolina at Georgia
+- Washington State at Arizona State
+- Texas Tech at Baylor
+- Memphis at Temple
+- BYU at USF
