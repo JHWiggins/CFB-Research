@@ -15,6 +15,11 @@ def newPlay(self):
 	
 	# FIRST GOAL IS TO IDENTIFY ALL VARIABLES THAT WILL BE ENTERED
 	
+	# Type of play (rush, pass, penalty)
+	# If penalty (name of penalty, offending player/s, penalty yards for each offense)
+	# GENERAL NON_PENALTY (personel group, WR formations, shotgun[T/F], down, yardline, yards to first down, defensive formation)
+	# If rush (name of rusher, hole rushed in, hole blocked for, 
+	
 	
 def fullGameRundown(self):
 	
