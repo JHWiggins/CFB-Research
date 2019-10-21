@@ -53,3 +53,9 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 - Texas Tech at Baylor
 - Memphis at Temple
 - BYU at USF
+
+## Week 8 Potential Games
+
+- Georgia Tech at Miami
+- *North Carolina at Virginia Tech*
+- Wisconsin at Illinois
