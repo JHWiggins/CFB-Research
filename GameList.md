@@ -59,3 +59,12 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 - Georgia Tech at Miami
 - *North Carolina at Virginia Tech*
 - Wisconsin at Illinois
+
+## Week 9 Potential Games
+
+- *Oklahoma at Kansas State*
+- SMU at Houston
+- Washington State at Oregon
+- Texas at TCU
+- USC at Colorado
+- Texas Tech at Kansas
