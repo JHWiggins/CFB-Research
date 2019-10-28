@@ -68,3 +68,4 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 - Texas at TCU
 - USC at Colorado
 - Texas Tech at Kansas
+- Memphis at Tulsa
