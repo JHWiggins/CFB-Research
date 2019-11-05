@@ -70,3 +70,10 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 - Texas Tech at Kansas
 - Memphis at Tulsa
 - Auburn at LSU
+
+## Week 10 Potential Games
+
+- SMU at Memphis
+- Georgia vs. Florida
+- West Virginia at Baylor
+- Georgia Southern at App State
