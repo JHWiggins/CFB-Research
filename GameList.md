@@ -73,7 +73,8 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 
 ## Week 10 Potential Games
 
-- SMU at Memphis
-- Georgia vs. Florida
+- *SMU at Memphis*
+- *Georgia vs. Florida*
 - West Virginia at Baylor
 - Georgia Southern at App State
+- Virginia Tech at Notre Dame
