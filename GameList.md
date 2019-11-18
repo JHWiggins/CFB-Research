@@ -78,3 +78,19 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 - West Virginia at Baylor
 - Georgia Southern at App State
 - Virginia Tech at Notre Dame
+
+## Week 11 Potential Games
+
+- LSU at Alabama
+- Penn State at Minnesota
+- Baylor at TCU
+- Wyoming at Boise State
+- UCF at Tulsa
+
+## Week 12 Potential Games
+
+- Arizona State at Oregon State
+- TCU at Texas Tech
+- Oklahoma at Baylor
+- Minnesota at Iowa
+- Cincinnati at USF
