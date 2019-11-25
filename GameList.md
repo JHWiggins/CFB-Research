@@ -94,3 +94,12 @@ Below will be all the games I am (or have) concidered for a full game analysis. 
 - Oklahoma at Baylor
 - Minnesota at Iowa
 - Cincinnati at USF
+
+## Week 13 Potential Games
+
+- Oregon State at Washington State
+- North Carolina State at Georgia Tech
+- San Diego State at Hawaii
+- Oregon at Arizona State
+- Tennessee at Missouri
+- UCF at Tulane
