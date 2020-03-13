@@ -12,7 +12,13 @@ def newPlay(self):
 	# This environment should include a mixture of drop down menus and inout boxes
 	# Each should start with the input of the game rosters in order to allow for positions per play to be input quickly
 	# OR THE ROSTER COULD BE NATIVELY SAVED FROM THE START OF THE SEASON WITH PLAYER OBJECTS IN ORDER TO SAVE PLAYER BY PLAYER STATS
-	#
+	
+	# FIRST GOAL IS TO IDENTIFY ALL VARIABLES THAT WILL BE ENTERED
+	
+	# Type of play (rush, pass, penalty)
+	# If penalty (name of penalty, offending player/s, penalty yards for each offense)
+	# GENERAL NON_PENALTY (personel group, WR formations, shotgun[T/F], down, yardline, yards to first down, defensive formation)
+	# If rush (name of rusher, hole rushed in, hole blocked for, 
 	
 	
 def fullGameRundown(self):
